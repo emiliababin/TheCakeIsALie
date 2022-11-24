@@ -1,0 +1,15 @@
+D:\Programy\UniverseIsALie\UniverseIsALie\bin\Debug\net6.0\UniverseIsALie.exe
+D:\Programy\UniverseIsALie\UniverseIsALie\bin\Debug\net6.0\UniverseIsALie.deps.json
+D:\Programy\UniverseIsALie\UniverseIsALie\bin\Debug\net6.0\UniverseIsALie.runtimeconfig.json
+D:\Programy\UniverseIsALie\UniverseIsALie\bin\Debug\net6.0\UniverseIsALie.dll
+D:\Programy\UniverseIsALie\UniverseIsALie\bin\Debug\net6.0\UniverseIsALie.pdb
+D:\Programy\UniverseIsALie\UniverseIsALie\obj\Debug\net6.0\UniverseIsALie.csproj.AssemblyReference.cache
+D:\Programy\UniverseIsALie\UniverseIsALie\obj\Debug\net6.0\UniverseIsALie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programy\UniverseIsALie\UniverseIsALie\obj\Debug\net6.0\UniverseIsALie.AssemblyInfoInputs.cache
+D:\Programy\UniverseIsALie\UniverseIsALie\obj\Debug\net6.0\UniverseIsALie.AssemblyInfo.cs
+D:\Programy\UniverseIsALie\UniverseIsALie\obj\Debug\net6.0\UniverseIsALie.csproj.CoreCompileInputs.cache
+D:\Programy\UniverseIsALie\UniverseIsALie\obj\Debug\net6.0\UniverseIsALie.dll
+D:\Programy\UniverseIsALie\UniverseIsALie\obj\Debug\net6.0\refint\UniverseIsALie.dll
+D:\Programy\UniverseIsALie\UniverseIsALie\obj\Debug\net6.0\UniverseIsALie.pdb
+D:\Programy\UniverseIsALie\UniverseIsALie\obj\Debug\net6.0\UniverseIsALie.genruntimeconfig.cache
+D:\Programy\UniverseIsALie\UniverseIsALie\obj\Debug\net6.0\ref\UniverseIsALie.dll
